@@ -1,9 +1,9 @@
 # Andrei Apanasik
 ## Contacts
-**Location:** Minsk, Belarus
-**Phone:** +375 33 690-92-90
-**Email:** mr.interfoto@gmail.com
-**Discord:** Andrew Gertz (@A-Gertz)
+**Location:** Minsk, Belarus  
+**Phone:** +375 33 690-92-90  
+**Email:** mr.interfoto@gmail.com  
+**Discord:** Andrew Gertz (@A-Gertz)  
 **GitHub:** A-Gertz (https://github.com/A-Gertz)
 
 ## About me
@@ -19,7 +19,7 @@ A sociologist by profession, who used the acquired knowledge in a completely new
 
 ## Work experience
 
-Sales manager, VIGURCOM Ltd distribution company
+Sales manager, VIGURCOM Ltd distribution company  
 **2014 - 2022**
 * Planning and developing digital marketing strategy
 * SEO Optimisation
@@ -28,7 +28,7 @@ Sales manager, VIGURCOM Ltd distribution company
 
 ## Education
 
-Yanka Kupala State University of Grodno
+Yanka Kupala State University of Grodno  
 **2005 - 2010**
 
 ## English
