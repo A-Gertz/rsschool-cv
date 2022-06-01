@@ -1,3 +1,4 @@
+![My Image](/images/ava_rs.png)  
 # Andrei Apanasik
 ## Contacts
 **Location:** Minsk, Belarus  
