@@ -15,7 +15,7 @@ A sociologist by profession, who used the acquired knowledge in a completely new
 * HTML
 * CSS
 * SEO
-* Bootstrap
+* Bootstrap (Basic)
 * JavaScript (Basic)   
 
 ## Code Example
