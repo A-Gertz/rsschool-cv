@@ -22,7 +22,7 @@ A sociologist by profession, who used the acquired knowledge in a completely new
 ## Work experience
 
 **Sales manager, VIGURCOM Ltd distribution company**  
-**2014 - preset**
+**2014 - present**
 * Planning and developing digital marketing strategy
 * SEO Optimization
 * Metrics & Analytics
