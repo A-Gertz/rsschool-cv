@@ -1,6 +1,7 @@
 ![My Image](./images/ava_rs.png)  
 # Andrei Apanasik
->Took a height of 3330 meters - further more ©
+>Took a height of 3330 meters - further more ©  
+
 ## Contacts
 **Location:** Minsk, Belarus  
 **Phone:** +375 33 690-92-90  
@@ -15,7 +16,7 @@ A sociologist by profession, who used the acquired knowledge in a completely new
 * HTML
 * CSS
 * SEO
-* Bootstrap
+* Bootstrap (Basic)
 * JavaScript (Basic)   
 
 ## Code Example
@@ -43,7 +44,7 @@ function bubbleSort (array) {
 **Sales manager, VIGURCOM Ltd distribution company**  
 **2014 - 2022**
 * Planning and developing digital marketing strategy
-* SEO Optimisation
+* SEO Optimization
 * Metrics & Analytics
 * Creating and implementing a link building strategy
 
