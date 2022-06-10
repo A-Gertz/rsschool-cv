@@ -19,30 +19,10 @@ A sociologist by profession, who used the acquired knowledge in a completely new
 * Bootstrap (Basic)
 * JavaScript (Basic)   
 
-## Code Example
-
-**Sorting random numbers**
-```
-bubbleSort(array)
-
-function bubbleSort (array) {
-  for (let n = 0; n < array.length; n++) {
-    for (let i = 0; i < array.length - 1 - n; i++) {
-	  if (array[i] > array [i + 1]) {
-	    const buff = array[i]
-		array[i] = array[i + 1]
-		array[i + 1] = buff
-	  }
-	}
-  }
-  
-  return array
-}
-```
 ## Work experience
 
 **Sales manager, VIGURCOM Ltd distribution company**  
-**2014 - 2022**
+**2014 - preset**
 * Planning and developing digital marketing strategy
 * SEO Optimization
 * Metrics & Analytics
