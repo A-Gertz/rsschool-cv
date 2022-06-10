@@ -35,4 +35,4 @@ A sociologist by profession, who used the acquired knowledge in a completely new
 
 ## English
 
-Pre-Intermediate
+Pre-Intermediate (A2)
