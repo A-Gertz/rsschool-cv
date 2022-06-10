@@ -55,4 +55,4 @@ function bubbleSort (array) {
 
 ## English
 
-Pre-intermediate
+Pre-Intermediate
