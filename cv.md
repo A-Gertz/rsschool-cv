@@ -22,7 +22,7 @@ A sociologist by profession, who used the acquired knowledge in a completely new
 ## Work experience
 
 **Sales manager, VIGURCOM Ltd distribution company**  
-**2014 - preset**
+**2014 - present**
 * Planning and developing digital marketing strategy
 * SEO Optimization
 * Metrics & Analytics
@@ -31,7 +31,7 @@ A sociologist by profession, who used the acquired knowledge in a completely new
 ## Education
 
 **Yanka Kupala State University of Grodno**  
-**History and Sociology Facultyg**
+**History and Sociology Faculty**
 **2005 - 2010**
 
 ## English
