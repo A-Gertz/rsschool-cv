@@ -31,6 +31,7 @@ A sociologist by profession, who used the acquired knowledge in a completely new
 ## Education
 
 **Yanka Kupala State University of Grodno**  
+**History and Sociology Faculty**
 **2005 - 2010**
 
 ## English
