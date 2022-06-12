@@ -2,7 +2,6 @@
 font-family: Roboto;
     src: url("assets/font/Roboto-Regular.ttf");
 }
-
 html {
     scroll-behavior: smooth; 
 }
@@ -23,10 +22,9 @@ body {
 }
 nav {
     display: grid;
-    grid-template-columns: 2fr;
     background: #e7e7e7;
 }
-ul .nav-header {
+ul.nav-header {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
