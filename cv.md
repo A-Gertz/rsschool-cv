@@ -1,4 +1,4 @@
-![My Image](./images/ava_rs.png)  
+![My Image](./assets/img/ava_rs.png)  
 # Andrei Apanasik
 >Took a height of 3330 meters - further more ©  
 
