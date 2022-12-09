@@ -27,3 +27,13 @@ function perimeterSequence(a,n) {
 ========
 Sales manager, April 2014 - Present, VIGURCOM Ltd
 
+## Education and Course
+========
+* Yanka Kupala State University of Grodno, History and Sociology Faculty, 2005 - 2010
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* Stepik
+
+## Languages
+========
+* Russian & Belorussian – native
+* English - pre-Intermediate
